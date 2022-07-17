@@ -1,2 +1,0 @@
-# Freelancer
-Freelancer site project
